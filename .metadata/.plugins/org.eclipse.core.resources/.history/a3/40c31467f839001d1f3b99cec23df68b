@@ -1,0 +1,5 @@
+package com.dev.hrpayroll.modal;
+
+public class Payment {
+
+}

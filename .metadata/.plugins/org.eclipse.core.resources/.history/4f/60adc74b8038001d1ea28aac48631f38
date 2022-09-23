@@ -1,0 +1,5 @@
+package com.dev.hrworker.modal;
+
+public class Worker {
+
+}

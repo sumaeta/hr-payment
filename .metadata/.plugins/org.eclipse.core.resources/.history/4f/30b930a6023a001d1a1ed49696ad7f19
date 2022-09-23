@@ -1,0 +1,13 @@
+package com.dev.hrpayroll.service;
+
+import org.springframework.stereotype.Service;
+
+import com.dev.hrpayroll.modal.Payment;
+
+@Service
+public class PaymentService {
+
+	public Payment getPayment(long id, int days) {
+		return new Payment("DEV", 200.0, days);
+	}
+}
