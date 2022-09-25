@@ -1,8 +1,0 @@
-package com.dev.hrpayroll.modal;
-
-public class Payment {
-
-	private String name;
-	private Double dailyicome;
-	private Integer days;
-}

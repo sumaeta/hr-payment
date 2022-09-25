@@ -1,6 +1,0 @@
-package com.dev.hrpayroll.modal;
-
-public class Payment {
-
-	private String name;
-}

@@ -1,9 +1,0 @@
-package com.dev.hrpayroll.cloud;
-
-import org.springframework.stereotype.Component;
-
-@Component
-public interface WorkerFeignClient {
-
-	
-}

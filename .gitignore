@@ -1,2 +1,5 @@
 /.metadata/
-.metadata/*
+.metadata/
+metadata/
+.idea/vcs.xml
+.idea/workspace.xml
